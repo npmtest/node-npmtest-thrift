@@ -1,4 +1,7 @@
-# test coverage for  [thrift (v0.10.0)](http://thrift.apache.org/)  [![npm package](https://img.shields.io/npm/v/npmtest-thrift.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thrift) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thrift.svg)](https://travis-ci.org/npmtest/node-npmtest-thrift)
+# npmtest-thrift
+
+#### basic test coverage for  [thrift (v0.10.0)](http://thrift.apache.org/)  [![npm package](https://img.shields.io/npm/v/npmtest-thrift.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thrift) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thrift.svg)](https://travis-ci.org/npmtest/node-npmtest-thrift)
+
 #### node.js bindings for the Apache Thrift RPC system
 
 [![NPM](https://nodei.co/npm/thrift.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/thrift)
